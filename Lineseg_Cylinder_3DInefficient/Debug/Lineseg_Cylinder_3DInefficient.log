@@ -1,0 +1,24 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6\physics-lineseg-cylinder-3d-mastervs2019\lineseg_cylinder_3dinefficient\main.cpp(554): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-lineseg-cylinder-3d-mastervs2019\lineseg_cylinder_3dinefficient\main.cpp(555): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-lineseg-cylinder-3d-mastervs2019\lineseg_cylinder_3dinefficient\main.cpp(560): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-lineseg-cylinder-3d-mastervs2019\lineseg_cylinder_3dinefficient\main.cpp(561): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-lineseg-cylinder-3d-mastervs2019\lineseg_cylinder_3dinefficient\main.cpp(572): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+d:\profiles\njp2424\desktop\physics\level6\physics-lineseg-cylinder-3d-mastervs2019\lineseg_cylinder_3dinefficient\main.cpp(653): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lineseg_Cylinder_3DInefficient.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6\physics-lineSeg-Cylinder-3D-masterVS2019\Lineseg_Cylinder_3DInefficient\Debug\Lineseg_Cylinder_3DInefficient.exe
